@@ -1,6 +1,6 @@
 {
-  "name": "Canvas LMS (Ubuntu 20.04)",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-20.04",
+  "name": "Canvas LMS (Ubuntu 22.04)",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-22.04",
   "features": {
     "ghcr.io/devcontainers/features/sshd:1": {
       "version": "latest"
